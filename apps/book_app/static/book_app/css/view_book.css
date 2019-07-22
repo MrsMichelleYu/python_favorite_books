@@ -1,0 +1,32 @@
+#main_container{
+    margin:0 auto;
+    width: 970px;
+}
+#description{
+    width: 300px;
+    height: 177px;
+    margin-left: 28px;
+}
+#paragraph{
+    margin-left:10px;
+}
+
+#delete {
+    margin-left: 93px;
+    margin-top: -97px;
+}
+#container1 {
+    width: 400px;
+    margin-left: 70px;
+}
+#container2{
+    width: 400px;
+    margin-left: 30px;
+}
+#container1, #container2{
+    display: inline-block;
+    vertical-align:top;
+}
+.messages{
+    color: red;
+}
